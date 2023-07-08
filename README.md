@@ -6,8 +6,8 @@ Contexto y requerimiento:
 2. Buscar: Corresponde buscar una encomienda utilizando el rut del destinatario y mostrar todas las encomiendas de ese rut.
 3. Listar: encomiendas: Esta opción permite imprimir todas las encomiendas. La información tiene que salir en columnas para hacer más fácil su lectura. Al final del listado, debe indicar cuantos sobres y cuantos paquetes hay en total
 4. Salir: Corresponde a salir del programa emitiendo un mensaje de salida. Considere, además, su nombre y apellido y la versión del programa.
-Instrucciones Generales: 
-Escribir un programa que contenga:
+Instrucciones Generales
+Escribir un programa que contenga
 1. Diseñe un menú con las opciones para acceder a cada función requerida.
 2. Cree las funciones solicitadas por cada requerimiento
 3. Considere el ingreso de datos y el despliegue de información
